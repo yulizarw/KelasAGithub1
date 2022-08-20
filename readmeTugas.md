@@ -2,18 +2,18 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
-|2.| NIM        |       |
-|3. |Link github |      |
-|4.| Link Edabit |      |
-|5|Exp Edabit   |       |
-|6| Link Codewars|      |
-|7| Level Jyu Codewars| |
+|1. |Nama     |   Naila Afriani    |
+|2.| NIM        |   2210312006    |
+|3. |Link github |  https://github.com/nailaafri    |
+|4.| Link Edabit |    https://edabit.com/user/ixYjaiveBSxSAr4hL  |
+|5|Exp Edabit   |    75 XP   |
+|6| Link Codewars| https://www.codewars.com/users/nailaafri     |
+|7| Level Jyu Codewars| 7 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
 `
-nama_nim_tanggal(dd/mm/yy)` 
+Naila Afriani_2210312006_tanggal(20/08/22)` 
 
 *Berikut ini merupakan file markdown <br/> tipe file ini digunakan untuk menuliskan*
 1. Dokumentasi aplikasi
