@@ -19,3 +19,6 @@ nama_nim_tanggal(dd/mm/yy)`
 1. Dokumentasi aplikasi
 2. Dokumentasi server
 3. Petunjuk proyek / petunjuk penggunaan aplikasi
+----
+**lakukan git clone menggunakan https pada repository ini, untuk mengarahkan origin folder anda pada repo ini<br/> lalu buatlah branch anda sendiri dan lakukan pull request**
+----
