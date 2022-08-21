@@ -9,4 +9,3 @@
 |5|Exp Edabit   |  75     |
 |6| Link Codewars|   https://www.codewars.com/users/Y3who   |
 |7| Level Jyu Codewars| 8kyu|
-
