@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
-|2.| NIM        |       |
-|3. |Link github |      |
-|4.| Link Edabit |      |
-|5|Exp Edabit   |       |
-|6| Link Codewars|      |
-|7| Level Jyu Codewars| |
+|1. |Nama     |Alvredo Nduru       |
+|2.| NIM        |2210312014       |
+|3. |Link github |https://github.com/alvredonduru      |
+|4.| Link Edabit |https://edabit.com/user/CoS8Jym7e65eLwSCN      |
+|5|Exp Edabit   |55       |
+|6| Link Codewars|https://www.codewars.com/users/Alvredo      |
+|7| Level Jyu Codewars|8kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
