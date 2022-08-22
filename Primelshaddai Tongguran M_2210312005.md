@@ -6,7 +6,7 @@
 |2.| NIM        |    2210312005   |
 |3. |Link github |  https://github.com/pprimel  |
 |4.| Link Edabit |   https://edabit.com/user/PQvWYK54qZAg6sBTf   |
-|5|Exp Edabit   |   60   |
+|5|Exp Edabit   |   75   |
 |6| Link Codewars|  https://www.codewars.com/users/pprimel    |
 |7| Level Jyu Codewars| 8kyu |
 
