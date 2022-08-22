@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
-|2.| NIM        |       |
-|3. |Link github |      |
-|4.| Link Edabit |      |
-|5|Exp Edabit   |       |
-|6| Link Codewars|      |
-|7| Level Jyu Codewars| |
+|1. |Nama     | Rizky Fathir Rianto      |
+|2.| NIM        | 2210312018      |
+|3. |Link github | https://github.com/rizkyfathirr     |
+|4.| Link Edabit | https://edabit.com/user/CsNrwyP47Fx97gu2A     |
+|5|Exp Edabit   | 70      |
+|6| Link Codewars| https://www.codewars.com/users/rizkyfathirr     |
+|7| Level Jyu Codewars|8 kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
