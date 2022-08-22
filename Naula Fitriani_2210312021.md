@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
-|2.| NIM        |       |
-|3. |Link github |      |
-|4.| Link Edabit |      |
-|5|Exp Edabit   |       |
-|6| Link Codewars|      |
-|7| Level Jyu Codewars| |
+|1. |Nama     |Naula Fitriani       |
+|2.| NIM        |2210312021       |
+|3. |Link github |https://github.com/NaulaFitriani      |
+|4.| Link Edabit |https://edabit.com/user/aP4MWHvFbaM3JSQxk      |
+|5|Exp Edabit   |50 xp       |
+|6| Link Codewars|https://www.codewars.com/users/NaulaFitriani      |
+|7| Level Jyu Codewars|8 kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
