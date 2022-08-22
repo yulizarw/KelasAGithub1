@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
-|2.| NIM        |       |
-|3. |Link github |      |
-|4.| Link Edabit |      |
-|5|Exp Edabit   |       |
-|6| Link Codewars|      |
-|7| Level Jyu Codewars| |
+|1. |Nama     |Achmad Za'im Mudzaki       |
+|2.| NIM        |2210312001       |
+|3. |Link github |https://github.com/zaimudzaki      |
+|4.| Link Edabit |https://edabit.com/user/26fFTvS3vzuWg4jum      |
+|5|Exp Edabit   |50       |
+|6| Link Codewars|https://www.codewars.com/users/zaimudzaki      |
+|7| Level Jyu Codewars|8 kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
