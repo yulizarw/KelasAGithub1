@@ -8,7 +8,7 @@
 |4.| Link Edabit |   https://edabit.com/user/K4ndGkonDZhipg7Dh   |
 |5|Exp Edabit   |   70    |
 |6| Link Codewars|   https://www.codewars.com/users/TeguhPrasetyoC   |
-|7| Level Jyu Codewars| 8 |
+|7| Level Jyu Codewars| 8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
