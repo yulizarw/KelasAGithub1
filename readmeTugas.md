@@ -2,13 +2,13 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
-|2.| NIM        |       |
-|3. |Link github |      |
-|4.| Link Edabit |      |
-|5|Exp Edabit   |       |
-|6| Link Codewars|      |
-|7| Level Jyu Codewars| |
+|1. |Nama     |  Aisyah Ahnaf Ardhini     |
+|2.| NIM        | 2210312026      |
+|3. |Link github | https://github.com/aisyaahnaf     |
+|4.| Link Edabit | https://edabit.com/user/DsA9GBFYuMvRxM5Qj     |
+|5|Exp Edabit   |  55     |
+|6| Link Codewars| https://www.codewars.com/users/aisyaahhnnaf     |
+|7| Level Jyu Codewars|8 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
