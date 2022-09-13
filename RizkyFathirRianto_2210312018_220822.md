@@ -8,7 +8,7 @@
 |4.| Link Edabit | https://edabit.com/user/CsNrwyP47Fx97gu2A     |
 |5|Exp Edabit   | 70      |
 |6| Link Codewars| https://www.codewars.com/users/rizkyfathirr     |
-|7| Level Jyu Codewars|8 kyu |
+|7| Level Jyu Codewars|7 kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
