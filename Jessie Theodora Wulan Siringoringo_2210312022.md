@@ -6,9 +6,9 @@
 |2.| NIM        |2210312022|
 |3. |Link github |https://github.com/Jessie594|
 |4.| Link Edabit |https://edabit.com/user/2FS9Lt74nvAMrzagA|
-|5|Exp Edabit   |55|
+|5|Exp Edabit   |70|
 |6| Link Codewars|https://www.codewars.com/users/JessieTheodora|
-|7| Level Jyu Codewars|8|
+|7| Level Kyu Codewars|7|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
