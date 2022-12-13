@@ -2,18 +2,18 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |       |
-|2.| NIM        |       |
-|3. |Link github |      |
-|4.| Link Edabit |      |
-|5|Exp Edabit   |       |
-|6| Link Codewars|      |
-|7| Level Jyu Codewars| |
+|1. |Nama     |Nikolas Virnandi Anggoro Putra       |
+|2.| NIM        |2210312020       |
+|3. |Link github |https://github.com/NickelSilv      |
+|4.| Link Edabit |https://edabit.com/user/4c2vytWqkDyrdXabs      |
+|5|Exp Edabit   |50 XP       |
+|6| Link Codewars|https://www.codewars.com/users/NickelSilv      |
+|7| Level Jyu Codewars|8 kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
 `
-nama_nim_tanggal(dd/mm/yy)` 
+Nikolas Virnandi Anggoro Putra_2210312020_tanggal(20/08/22)` 
 
 *Berikut ini merupakan file markdown <br/> tipe file ini digunakan untuk menuliskan*
 1. Dokumentasi aplikasi
