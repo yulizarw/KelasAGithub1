@@ -8,7 +8,7 @@
 |4. | Link Edabit       | https://edabit.com/user/CqPqy5hykbokh73E7 |
 |5. | Exp Edabit        | 75                                        |
 |6. | Link Codewars     | https://www.codewars.com/users/Bkaniaep   |
-|7. | Level Jyu Codewars| 6                                         |
+|7. | Level Jyu Codewars| 8                                         |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
